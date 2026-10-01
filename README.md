@@ -1,4 +1,4 @@
-# Gelişim Kampı · Termal İnziva — Retreat Landing Page (Demo)
+# Gelişim Kampı · Termal İnziva · Retreat Landing Page (Demo)
 
 **▶ Live demo: https://alex-buran.github.io/gelisim-kampi-demo/**
 
@@ -15,7 +15,7 @@ section, and a participant registration form.
 
 ## Tech
 
-- One self-contained `index.html` — no build step, no dependencies
+- One self-contained `index.html`, no build step, no dependencies
 - Vanilla HTML / CSS / JavaScript
 - Google Fonts (Fraunces, Jost), `IntersectionObserver` reveals, scroll-snap slider
 - Fully responsive · alternating light/dark sections · `prefers-reduced-motion` aware
