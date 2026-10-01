@@ -1,5 +1,8 @@
 # Gelişim Kampı · Termal İnziva — Retreat Landing Page (Demo)
 
+**▶ Live demo: https://alex-buran.github.io/gelisim-kampi-demo/**
+
+
 A single-page landing site for a wellness & thermal retreat at a spa hotel in
 Çeşme. Editorial layout with a deep-petrol palette, Fraunces + Jost typography,
 a photographic graded hero with a rotating seal, scroll-reveal motion, a
